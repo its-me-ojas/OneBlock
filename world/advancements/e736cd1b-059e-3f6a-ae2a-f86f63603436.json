@@ -8345,21 +8345,9 @@
     },
     "done": false
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-20 03:48:47 +0530"
-    },
-    "done": true
-  },
   "obs:ob/weapon": {
     "criteria": {
       "requirement": "2024-12-20 03:29:24 +0530"
-    },
-    "done": true
-  },
-  "obs:ob/redstone": {
-    "criteria": {
-      "requirement": "2024-12-20 03:50:57 +0530"
     },
     "done": true
   },
@@ -8375,9 +8363,27 @@
     },
     "done": true
   },
+  "obs:phases/dirt_3": {
+    "criteria": {
+      "requirement": "2024-12-20 03:40:15 +0530"
+    },
+    "done": true
+  },
   "obs:phases/phase_6": {
     "criteria": {
       "requirement": "2024-12-20 03:48:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 03:48:47 +0530"
+    },
+    "done": true
+  },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2024-12-20 03:50:57 +0530"
     },
     "done": true
   },
@@ -8399,9 +8405,21 @@
     },
     "done": true
   },
-  "obs:phases/dirt_3": {
+  "obs:phases/phase_8": {
     "criteria": {
-      "requirement": "2024-12-20 03:40:15 +0530"
+      "requirement": "2024-12-23 09:30:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-23 09:36:36 +0530"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2024-12-23 09:43:00 +0530"
     },
     "done": true
   },
