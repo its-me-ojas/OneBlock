@@ -8321,21 +8321,9 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-20 03:57:33 +0530"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-20 03:24:19 +0530"
-    },
-    "done": true
-  },
-  "obs:ob/redstone": {
-    "criteria": {
-      "requirement": "2024-12-20 03:48:49 +0530"
     },
     "done": true
   },
@@ -8363,6 +8351,18 @@
     },
     "done": true
   },
+  "obs:ob/redstone": {
+    "criteria": {
+      "requirement": "2024-12-20 03:48:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-20 03:57:33 +0530"
+    },
+    "done": true
+  },
   "obs:phases/phase_7": {
     "criteria": {
       "requirement": "2024-12-20 03:58:57 +0530"
@@ -8378,6 +8378,24 @@
   "obs:ob/diamond": {
     "criteria": {
       "requirement": "2024-12-20 03:59:47 +0530"
+    },
+    "done": true
+  },
+  "obs:ob/mob": {
+    "criteria": {
+      "requirement": "2025-02-24 13:12:15 +0530"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "requirement": "2025-02-24 13:11:56 +0530"
+    },
+    "done": true
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "requirement": "2025-02-24 13:09:02 +0530"
     },
     "done": true
   },
